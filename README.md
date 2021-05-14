@@ -1,6 +1,4 @@
 # Responsive Food Landing Page Using HTML CSS Javascript
- 
-## Video
 
 
 !["Responsive Food Landing Page Using HTML CSS Javascript"](https://raw.githubusercontent.com/trananhtuat/responsive-animate-food-landing-page/main/banner.png "Responsive Food Landing Page Using HTML CSS Javascript")
